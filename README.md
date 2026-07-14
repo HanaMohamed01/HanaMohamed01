@@ -39,7 +39,7 @@
 
 <table>
   <tr>
-    <td width="50%" height="260" align="center" valign="top">
+    <td width="50%" height="220" align="center" valign="top">
 
 #### 📸 Adasa — Photography Platform
 
@@ -54,7 +54,7 @@ Responsive Angular website with RTL support and reusable components.
 
 </td>
 
-<td width="50%" height="260" align="center" valign="top">
+<td width="50%" height="220" align="center" valign="top">
 
 #### 📋 Kanban Board Task Manager
 
