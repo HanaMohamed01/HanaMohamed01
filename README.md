@@ -15,10 +15,7 @@
 
 ### 👩‍💻 About Me
 
-- 💻 Front-End Development Diploma — **Route Academy** (2025–2026)
-- ⚡ Completed a 150-hour **Angular** intensive training — **ITI**
-- 🏆 1st Place — ITI Summer Training Hackathon 2025
-- 🚀 Currently building responsive, accessible web apps with **Angular, TypeScript & Tailwind CSS**
+- Front-End Developer specializing in Angular with a strong foundation in HTML, CSS, Bootstrap,Tailwind, JavaScript, and TypeScript. Passionate about building responsive, user-friendly, and high-performance web applications while following clean code practices. Experienced in developing projects that integrate REST APIs, implement modern UI components, and deliver seamless user experiences. Currently expanding my expertise in Node.js and back-end development with the goal of becoming a Full-Stack Developer. Eager to contribute to a collaborative team, continuously learn new technologies, and build scalable, high-quality software solutions.
 
 ---
 
@@ -42,15 +39,15 @@
 ### 📌 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" style="margin-bottom:10px;">
+  <tr style="margin-bottom:10px;">
+    <td width="50%">
       <h4>📸 Adasa — Photography Platform</h4>
       Responsive Angular website with RTL support and reusable components.<br/>
       <b>Stack:</b> Angular · Bootstrap · TypeScript<br/>
       <a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
       <a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
     </td>
-    <td width="50%" style="margin-bottom:10px;">
+    <td width="50%">
       <h4>📋 Kanban Board Task Manager</h4>
       Drag-and-drop task manager with LocalStorage persistence.<br/>
       <b>Stack:</b> Angular · TypeScript · Bootstrap<br/>
@@ -58,15 +55,15 @@
       <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" style="margin-bottom:10px;">
+  <tr style="margin-bottom:10px;">
+    <td width="50%">
       <h4>📇 ContactHub — CRUD System</h4>
       Full CRUD contact manager with client-side validation.<br/>
       <b>Stack:</b> HTML · CSS · Bootstrap · JavaScript<br/>
       <a href="https://github.com/HanaMohamed01/ContactHub-CRUD-System">Repo</a> ·
       <a href="https://hanamohamed01.github.io/ContactHub-CRUD-System">Live Demo</a>
     </td>
-    <td width="50%" style="margin-bottom:10px;">
+    <td width="50%">
       <h4>🚀 More on the way</h4>
       New Angular projects are always in progress — check my pinned repos for the latest.<br/>
       <a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
