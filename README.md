@@ -7,8 +7,8 @@
 
 <p align="center">
 
-<a href="https://raw.githubusercontent.com/HanaMohamed01/Hanaa-ELnegery-CV/main/Hanaa%20Elnegery%20CV.pdf">
-<img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1XZsFo_G552_3ZHfnKCYIqoPfBYdZ_MvG/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hanaelnegery1">
