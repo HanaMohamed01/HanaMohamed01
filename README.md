@@ -71,7 +71,7 @@ Drag-and-drop task manager with LocalStorage persistence.
   </tr>
 
   <tr>
-    <td width="50%" height="260" align="center" valign="top">
+    <td width="50%" height="200" align="center" valign="top">
 
 #### 📇 ContactHub — CRUD System
 
