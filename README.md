@@ -70,9 +70,6 @@ Drag-and-drop task manager with LocalStorage persistence.
 </td>
   </tr>
 
-  <tr>
-    <td width="50%" height="200" align="center" valign="top">
-
 #### 📇 ContactHub — CRUD System
 
 Full CRUD contact manager with client-side validation.
