@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Angular Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+responsive+web+apps+with+Angular;Turning+designs+into+clean%2C+scalable+code;From+Linguistics+to+Front-End+Development;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+responsive+web+apps+with+Angular;Turning+designs+into+clean%2C+scalable+code;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@
       <a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
       <a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
     </td>
+    <br>
     <td width="50%">
       <h4>📋 Kanban Board Task Manager</h4>
       Drag-and-drop task manager with LocalStorage persistence.<br/>
@@ -57,6 +58,7 @@
       <a href="https://github.com/HanaMohamed01/Kanban-Board-Task-Manager-Angular">Repo</a> ·
       <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
     </td>
+        <br>
   </tr>
   <tr>
     <td width="50%">
@@ -71,6 +73,8 @@
       New Angular projects are always in progress — check my pinned repos for the latest.<br/>
       <a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
     </td>
+        <br>
+
   </tr>
 </table>
 
