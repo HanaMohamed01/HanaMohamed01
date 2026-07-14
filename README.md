@@ -108,11 +108,3 @@ New Angular projects are always in progress — check my pinned repositories for
 </p>
 
 ---
-
-### 🌍 Languages
-
-`Arabic — Native` &nbsp;|&nbsp; `English — Very Good` &nbsp;|&nbsp;
-
----
-
-<p align="center"><i>Thanks for stopping by! Feel free to explore my repos or connect with me on LinkedIn. 🚀</i></p>
