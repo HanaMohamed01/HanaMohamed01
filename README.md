@@ -50,7 +50,7 @@ Responsive Angular website with RTL support and reusable components.
 <a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
 <a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
 
-<br>
+<br><br>
 
 </td>
 
@@ -65,10 +65,13 @@ Drag-and-drop task manager with LocalStorage persistence.
 <a href="https://github.com/HanaMohamed01/Kanban-Board-Task-Manager-Angular">Repo</a> ·
 <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
 
-<br>
+<br><br>
 
 </td>
   </tr>
+
+  <tr>
+    <td width="50%" height="220" align="center" valign="top">
 
 #### 📇 ContactHub — CRUD System
 
@@ -79,11 +82,11 @@ Full CRUD contact manager with client-side validation.
 <a href="https://github.com/HanaMohamed01/ContactHub-CRUD-System">Repo</a> ·
 <a href="https://hanamohamed01.github.io/ContactHub-CRUD-System">Live Demo</a>
 
-<br><br><br>
+<br><br>
 
 </td>
 
-<td width="50%" height="260" align="center" valign="top">
+<td width="50%" height="220" align="center" valign="top">
 
 #### 🚀 More on the way
 
@@ -91,14 +94,13 @@ New Angular projects are always in progress — check my pinned repositories for
 
 <a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
 
-<br><br><br><br><br>
+<br><br>
 
 </td>
   </tr>
 </table>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
