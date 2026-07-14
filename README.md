@@ -35,43 +35,61 @@
 </p>
 
 ---
-
 ### 📌 Featured Projects
 
 <table>
   <tr>
-<td width="50%">
-  <h4>📸 Adasa — Photography Platform</h4>
-      Responsive Angular website with RTL support and reusable components.<br/>
-      <b>Stack:</b> Angular · Bootstrap · TypeScript<br/>
-      <a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
-      <a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
-    </td>
-<td width="50%">    
-  <h4>📋 Kanban Board Task Manager</h4>
-      Drag-and-drop task manager with LocalStorage persistence.<br/>
-      <b>Stack:</b> Angular · TypeScript · Bootstrap<br/>
-      <a href="https://github.com/HanaMohamed01/Kanban-Board-Task-Manager-Angular">Repo</a> ·
-      <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
-    </td>
+    <td width="50%" align="center" valign="top">
+
+#### 📸 Adasa — Photography Platform
+
+Responsive Angular website with RTL support and reusable components.
+
+**Stack:** Angular · Bootstrap · TypeScript
+
+<a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
+<a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+#### 📋 Kanban Board Task Manager
+
+Drag-and-drop task manager with LocalStorage persistence.
+
+**Stack:** Angular · TypeScript · Bootstrap
+
+<a href="https://github.com/HanaMohamed01/Kanban-Board-Task-Manager-Angular">Repo</a> ·
+<a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
+
+</td>
   </tr>
-    <br>
 
   <tr>
-<td width="50%" >   
-  <h4>📇 ContactHub — CRUD System</h4>
-      Full CRUD contact manager with client-side validation.<br/>
-      <b>Stack:</b> HTML · CSS · Bootstrap · JavaScript<br/>
-      <a href="https://github.com/HanaMohamed01/ContactHub-CRUD-System">Repo</a> ·
-      <a href="https://hanamohamed01.github.io/ContactHub-CRUD-System">Live Demo</a>
-    </td>
-<td width="50%">  
-  <h4>🚀 More on the way</h4>
-      New Angular projects are always in progress — check my pinned repos for the latest.<br/>
-      <a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
-    </td>
+    <td width="50%" align="center" valign="top">
+
+#### 📇 ContactHub — CRUD System
+
+Full CRUD contact manager with client-side validation.
+
+**Stack:** HTML · CSS · Bootstrap · JavaScript
+
+<a href="https://github.com/HanaMohamed01/ContactHub-CRUD-System">Repo</a> ·
+<a href="https://hanamohamed01.github.io/ContactHub-CRUD-System">Live Demo</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+#### 🚀 More on the way
+
+New Angular projects are always in progress — check my pinned repositories for the latest.
+
+<a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
+
+</td>
   </tr>
-  <br>
 </table>
 
 ---
