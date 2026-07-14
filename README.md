@@ -50,7 +50,7 @@ Responsive Angular website with RTL support and reusable components.
 <a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
 <a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
 
-<br><br>
+<br>
 
 </td>
 
@@ -65,7 +65,7 @@ Drag-and-drop task manager with LocalStorage persistence.
 <a href="https://github.com/HanaMohamed01/Kanban-Board-Task-Manager-Angular">Repo</a> ·
 <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
 
-<br><br>
+<br>
 
 </td>
   </tr>
