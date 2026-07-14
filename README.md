@@ -40,14 +40,14 @@
 
 <table>
   <tr>
-    <td width="50%" style="text-align:center; padding:20px;">
+    <td width="50%" align="center" valign="top">
       <h4>📸 Adasa — Photography Platform</h4>
       Responsive Angular website with RTL support and reusable components.<br/>
       <b>Stack:</b> Angular · Bootstrap · TypeScript<br/>
       <a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
       <a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
     </td>
-    <td width="50%" style="text-align:center; padding:20px;">
+    <td width="50%" align="center" valign="top">
       <h4>📋 Kanban Board Task Manager</h4>
       Drag-and-drop task manager with LocalStorage persistence.<br/>
       <b>Stack:</b> Angular · TypeScript · Bootstrap<br/>
@@ -55,30 +55,28 @@
       <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
     </td>
   </tr>
+    <br>
+
   <tr>
-    <td width="50%" style="text-align:center; padding:20px;">
+    <td width="50%" align="center" valign="top">
       <h4>📇 ContactHub — CRUD System</h4>
       Full CRUD contact manager with client-side validation.<br/>
       <b>Stack:</b> HTML · CSS · Bootstrap · JavaScript<br/>
       <a href="https://github.com/HanaMohamed01/ContactHub-CRUD-System">Repo</a> ·
       <a href="https://hanamohamed01.github.io/ContactHub-CRUD-System">Live Demo</a>
     </td>
-    <td width="50%" style="text-align:center; padding:20px;">
+    <td width="50%" align="center" valign="top">
       <h4>🚀 More on the way</h4>
       New Angular projects are always in progress — check my pinned repos for the latest.<br/>
       <a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
     </td>
   </tr>
+  <br>
 </table>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HanaMohamed01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaMohamed01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaMohamed01&theme=tokyonight&hide_border=true" />
