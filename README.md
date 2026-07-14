@@ -39,7 +39,7 @@
 ### 📌 Featured Projects
 
 <table>
-  <tr style="margin-bottom:10px;">
+  <tr>
     <td width="50%" style="text-align:center; padding:20px;">
       <h4>📸 Adasa — Photography Platform</h4>
       Responsive Angular website with RTL support and reusable components.<br/>
@@ -55,7 +55,7 @@
       <a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
     </td>
   </tr>
-  <tr style="margin-bottom:10px;">
+  <tr>
     <td width="50%" style="text-align:center; padding:20px;">
       <h4>📇 ContactHub — CRUD System</h4>
       Full CRUD contact manager with client-side validation.<br/>
