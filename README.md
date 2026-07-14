@@ -38,9 +38,9 @@
 
 ### 📌 Featured Projects
 
-<table>
+<table style="display:flex;">
   <tr>
-<td width="50%" style="text-align:center; vertical-align:top; padding:20px;">
+<td width="50%" style=" text-align:center; vertical-align:top; padding:20px;">
   <h4>📸 Adasa — Photography Platform</h4>
       Responsive Angular website with RTL support and reusable components.<br/>
       <b>Stack:</b> Angular · Bootstrap · TypeScript<br/>
