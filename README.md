@@ -119,4 +119,3 @@ New Angular projects are always in progress — check my pinned repositories for
 ---
 
 <p align="center"><i>Thanks for stopping by! Feel free to explore my repos or connect with me on LinkedIn. 🚀</i></p>
-ده ال ريدمي كله عايزاك تخلي ال tech stack يبانوا بشكل احسن و متنظمين و عايزه اعمل حاجه فوق مع لينكات ال لينكد ان و كده تكون لل سيفي و كده 
